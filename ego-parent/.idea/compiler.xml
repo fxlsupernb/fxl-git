@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego-pojo" />
+        <module name="ego-management" />
+        <module name="ego-portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="ego-pojo" target="1.5" />
+      <module name="egopojo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ego-management" options="" />
+      <module name="ego-parent" options="" />
+      <module name="ego-pojo" options="" />
+      <module name="ego-portal" options="" />
+      <module name="egopojo" options="" />
+    </option>
+  </component>
+</project>

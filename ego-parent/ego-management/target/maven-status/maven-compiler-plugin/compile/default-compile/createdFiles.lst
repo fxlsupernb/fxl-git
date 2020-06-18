@@ -1,0 +1,4 @@
+com/fxl/mapper/PictureMapper.class
+com/fxl/service/PictureService.class
+com/fxl/service/impl/PictureServiceImpl.class
+com/fxl/controller/PictureController.class

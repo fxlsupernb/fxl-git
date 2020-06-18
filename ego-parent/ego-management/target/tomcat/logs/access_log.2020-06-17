@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:38:40 +0800] "GET /show HTTP/1.1" 200 912 http-bio-80-exec-1 2113
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:38:40 +0800] "GET /files/cat.jpeg HTTP/1.1" 304 - http-bio-80-exec-3 17
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:38:40 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-4 12
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:38:40 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-2 19
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:45:29 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-8 24
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:45:29 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-9 24
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:59:05 +0800] "GET /files/cat.jpeg HTTP/1.1" 304 - http-bio-80-exec-4 26
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:59:05 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-4 4
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:17:59:05 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-4 3
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:15:14 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-7 39
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:15:14 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-5 39
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:21:26 +0800] "GET /files/cat.jpeg HTTP/1.1" 304 - http-bio-80-exec-10 26
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:32:44 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-2 40
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:32:44 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-3 53
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:47:26 +0800] "GET /files/b.png HTTP/1.1" 304 - http-bio-80-exec-5 15
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:47:26 +0800] "GET /files/cat.jpeg HTTP/1.1" 304 - http-bio-80-exec-9 65
+0:0:0:0:0:0:0:1 - - [17/Jun/2020:18:47:26 +0800] "GET /files/a.png HTTP/1.1" 304 - http-bio-80-exec-1 22
